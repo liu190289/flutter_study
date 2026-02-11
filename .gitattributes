@@ -1,0 +1,8 @@
+# 自动处理文本文件，在提交时转为 LF，检出时适应系统
+* text=auto
+
+# 强制 markdown 和 配置文件使用统一格式
+*.md text
+*.json text
+*.css text
+*.js text

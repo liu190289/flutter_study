@@ -1,0 +1,16 @@
+# Windows 系统垃圾
+Desktop.ini
+$RECYCLE.BIN/
+
+# Mac 系统垃圾
+.DS_Store
+
+# Obsidian 布局与缓存 (冲突之源)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-mobile-drawer.json
+.obsidian/graphs.json
+
+# 插件缓存 (可选，建议忽略)
+.obsidian/plugins/obsidian-git/data.json
