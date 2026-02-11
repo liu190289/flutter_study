@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "40947616940c9b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff79cafc5ca288a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761a8f94e32d89a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：手势识别 (Gesture Detector).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📱 Flutter 学习笔记：手势识别 (Gesture Detector)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d29dc7033af0c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "abf3472cf48810ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e660c51b6a00d0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e1b9cf370d545c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f68878129cb4ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5db807482474ade3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2f1039a21e5dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148487c99656906f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习笔记/2026-02-06📱 Flutter 实战笔记：Instagram 风格布局 (ListView & Builder).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-02-06📱 Flutter 实战笔记：Instagram 风格布局 (ListView & Builder) 的反向链接列表"
+            }
+          },
+          {
+            "id": "f026e2db0985c299",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：本地存储 (Hive 基础).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "📱 Flutter 学习笔记：本地存储 (Hive 基础) 的出链列表"
+            }
+          },
+          {
+            "id": "a857dce0883e104b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "11bb7c92ce4add27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a30123a14d5f2782",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-05📱Flutter 开发学习笔记：基础与布局篇.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-02-05📱Flutter 开发学习笔记：基础与布局篇 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "761a8f94e32d89a2",
+  "lastOpenFiles": [
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：页面指示器 (Smooth Page Indicator).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：图片资源与圆角处理 (Image Asset).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：手势识别 (Gesture Detector).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：可滑动组件 (Slidable Widget).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：交互式动画图标 (Interactive Animated Icons).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：高颜值拖拽列表 (Source Code Analysis).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：垂直滑动页面 (Vertical PageView).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：表格组件 (Table Widget).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/📱 Flutter 学习笔记：表单交互与状态管理 (Form Interaction & State Management).md",
+    "学习笔记/2026-02-05📱Flutter 实战笔记：基础与布局篇.md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：响应式布局 (Responsive Design).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：时间选择器 (Time Picker).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：日期选择器与空安全 (Date Picker & Null Safety).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：弹出式菜单与手势交互 (Popover Menu & Gesture Interaction).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：侧边栏 (Drawer).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：本地存储 (Hive 基础).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记/📱 Flutter 学习笔记：3D 滚轮选择器 (ListWheelScrollView).md",
+    "学习笔记/2026-02-06📱 Flutter 实战笔记：Instagram 风格布局 (ListView & Builder).md",
+    "学习笔记/2026-02-10📱Flutter 实战笔记",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记/未命名 1.md",
+    "学习笔记/基础语法.md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记：交互与状态管理 (Interactive UI).md",
+    "学习笔记/2026-02-09📱 Flutter 实战笔记",
+    "2026-02-06.md",
+    "学习笔记"
+  ]
+}
