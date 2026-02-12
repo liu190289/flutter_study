@@ -1,3 +1,4 @@
+#轻量级存储
 **日期**: 2026年2月12日 
 **项目状态**: ✅ 已完成 (100%) **核心技能**: `WidgetsFlutterBinding`, `SharedPreferences`, `Async Main`, `Singleton`
 
